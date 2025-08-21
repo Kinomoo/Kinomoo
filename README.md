@@ -15,7 +15,7 @@
 ---
 
 ## 🌟 代表作品
-### 🎮 [NTRP 2.0 Showcase](https://github.com/Kinomoo/ntrp-showcase)  
+### 🎮 [NTRP網站Showcase](https://github.com/Kinomoo/ntrp-showcase)  
 為 Discord GTA RP 伺服器「Neo Terra RP」打造的專用網站。  
 
 - 🌐 Demo：[neotrp.com](https://neotrp.com)  
