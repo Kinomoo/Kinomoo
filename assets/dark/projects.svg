@@ -1,0 +1,17 @@
+<svg viewBox="0 0 1000 459" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Showcased projects">
+  <style>
+    .mono { font-family: 'Noto Sans CJK TC', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+    .draw { stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: draw 1.2s cubic-bezier(.6,0,.2,1) forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    .fade { opacity: 0; animation: fade .7s ease forwards; }
+    @keyframes fade { to { opacity: 1; } }
+    .a1{animation-delay:.1s} .a2{animation-delay:.3s} .a3{animation-delay:.5s} .a4{animation-delay:.7s} .a5{animation-delay:.9s} .a6{animation-delay:1.1s}
+    @media (prefers-reduced-motion: reduce) { .draw,.fade { animation: none; } .draw{stroke-dashoffset:0} .fade{opacity:1} }
+  </style>
+
+  <g class="fade a1">
+    <text class="mono" fill="#7A6B58" x="48" y="26" font-size="11" letter-spacing="2">3 SHOWCASED REPOSITORIES</text>
+  </g>
+<text class="mono fade a1" fill="#E8C77E" x="48" y="56" font-size="13" letter-spacing="1">01</text><text class="mono fade a1" fill="#F3E4C8" x="90" y="56" font-size="18">AI 面試訓練系統</text><text class="mono fade a1" fill="#B99B6E" x="90" y="80" font-size="12.5">跨校技術合作（國立臺灣師範大學）· IETAC 2024 國內競賽第一名 · 線上服務中</text><text class="mono fade a1" fill="#B99B6E" x="90" y="101" font-size="12.5">研究團隊以此系統申請國科會計畫，並發表於 ICEMT 2025（ACM），本人列名致謝</text><text class="mono fade a1" fill="#B99B6E" x="90" y="122" font-size="12.5">主動將 17GB 老舊專案重構為 pnpm monorepo，遷移至 GCP，並推動團隊導入 GitHub 協作流程</text><text class="mono fade a1" fill="#7A6B58" x="90" y="145" font-size="11" letter-spacing="0.5">TypeScript · Python · GPT-4o · GCP · Docker</text><line class="draw a1" x1="48" y1="167" x2="952" y2="167" stroke="#3A2E22" stroke-width="1"/><text class="mono fade a2" fill="#E39FA8" x="48" y="201" font-size="13" letter-spacing="1">02</text><text class="mono fade a2" fill="#F3E4C8" x="90" y="201" font-size="18">LittleTone</text><text class="mono fade a2" fill="#B99B6E" x="90" y="225" font-size="12.5">LINE FRESH 2025 校園競賽 Top 10（前 4.4%）· AI 社交溝通教練</text><text class="mono fade a2" fill="#B99B6E" x="90" y="246" font-size="12.5">獨立設計 RAG 建議引擎，負責全端架構與 CI/CD 部署</text><text class="mono fade a2" fill="#7A6B58" x="90" y="269" font-size="11" letter-spacing="0.5">Flask · LINE LIFF · OpenAI · RAG · Vercel</text><line class="draw a2" x1="48" y1="291" x2="952" y2="291" stroke="#3A2E22" stroke-width="1"/><text class="mono fade a3" fill="#D8A86C" x="48" y="325" font-size="13" letter-spacing="1">03</text><text class="mono fade a3" fill="#F3E4C8" x="90" y="325" font-size="18">NTRP 社群整合平台</text><text class="mono fade a3" fill="#B99B6E" x="90" y="349" font-size="12.5">獨立開發 · 服務 300+ 用戶 · 穩定運行 4 個月</text><text class="mono fade a3" fill="#B99B6E" x="90" y="370" font-size="12.5">從需求評估、UI 設計到雲端上線一人完成</text><text class="mono fade a3" fill="#7A6B58" x="90" y="393" font-size="11" letter-spacing="0.5">Next.js · PostgreSQL · Prisma · Discord OAuth</text><line class="draw a3" x1="48" y1="415" x2="952" y2="415" stroke="#3A2E22" stroke-width="1"/>
+
+</svg>
