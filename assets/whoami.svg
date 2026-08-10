@@ -1,0 +1,21 @@
+<svg viewBox="0 0 1000 292" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="About KimMo">
+  <style>
+    .mono { font-family: 'Noto Sans CJK TC', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+    .draw { stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: draw 1.2s cubic-bezier(.6,0,.2,1) forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    .fade { opacity: 0; animation: fade .7s ease forwards; }
+    @keyframes fade { to { opacity: 1; } }
+    .a1{animation-delay:.1s} .a2{animation-delay:.3s} .a3{animation-delay:.5s} .a4{animation-delay:.7s} .a5{animation-delay:.9s} .a6{animation-delay:1.1s}
+    @media (prefers-reduced-motion: reduce) { .draw,.fade { animation: none; } .draw{stroke-dashoffset:0} .fade{opacity:1} }
+  </style>
+
+  <g>
+    <text class="mono fade a1" fill="#2A2016" x="48" y="52" font-size="18">全端開發者，特別關注 AI 應用怎麼真正落地。</text><text class="mono fade a2" fill="#2A2016" x="48" y="88" font-size="18">從跨校學術合作系統、競賽作品到自己獨立部署上線的產品，</text><text class="mono fade a3" fill="#2A2016" x="48" y="124" font-size="18">習慣把專案做到能被真實使用者使用、能長期穩定運行。</text><text class="mono fade a4" fill="#2A2016" x="48" y="160" font-size="18">擅長在資源有限的情況下獨立判斷、主動解決問題。</text><text class="mono fade a5" fill="#2A2016" x="48" y="196" font-size="18">目前於企業實習中，持續累積後端與大型專案協作經驗。</text>
+  </g>
+  <line class="draw a5" x1="48" y1="240" x2="952" y2="240" stroke="#D9C4A0" stroke-width="1"/>
+  <g class="fade a6">
+    <text class="mono" fill="#B99B6E" x="48" y="268" font-size="12" letter-spacing="1">role ›</text>
+    <text class="mono" fill="#B8860B" x="100" y="268" font-size="12" letter-spacing="1">Full-Stack Development / AI Application Delivery</text>
+  </g>
+
+</svg>
