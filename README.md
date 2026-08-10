@@ -1,60 +1,58 @@
-# Hi, I'm KimMo 👋
+<div align="center">
 
-以全端開發為主，對 AI 應用落地特別有興趣。  
-從學術合作系統、LINE FRESH 競賽到自己部署上線的產品，習慣把專案做到能被真實使用者用到。
+<img src="assets/avatar.gif" width="150" />
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"/><img src="assets/header.svg" alt="KimMo — Full-Stack Developer and AI Product Builder"/></picture>
 
-## 🚀 代表專案
+<a href="https://www.linkedin.com/in/kinommoo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-### 🎓 [輕度智能障礙學員面試訓練系統](https://github.com/Kinomoo/interview-system-showcase) &nbsp;·&nbsp; [Live →](https://ice-interview.com/)
-> 跨校學術合作 · 國科會計畫 · 已上線服務中
+</div>
 
-為輕度智能障礙學生打造的 AI 模擬面試平台。負責系統開發、大規模重構（17GB → 輕量 monorepo）與 GCP 遷雲部署。
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"/><img src="assets/s01.svg" alt="01 — whoami"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="About KimMo"/></picture>
 
-**競賽成果**：IETAC 2024 **國內第一名** · USR 智慧醫護創新科技全國應用大賽**佳作** · 臺中科大專題展**佳作**
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"/><img src="assets/s02.svg" alt="02 — projects"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" alt="3 showcased repositories"/></picture>
 
-📄 ACM ICEMT 2025 學術論文致謝：[論文連結](https://dl.acm.org/doi/10.1145/3761843.3761923)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="03 — telemetry"/></picture>
 
-`TypeScript` `Node.js` `Python` `OpenAI GPT-4o` `FER` `Socket.IO` `MySQL` `GCP` `Nginx`
+<div align="center">
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Kinomoo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=E8C77E&icon_color=E39FA8&text_color=D8C3A0"/><img src="https://github-readme-stats.vercel.app/api?username=Kinomoo&show_icons=true&hide_border=true&bg_color=ffffff&title_color=9C4F5D&icon_color=7A4A2B&text_color=2A2016" width="47%" alt="GitHub statistics"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinomoo&layout=compact&hide_border=true&bg_color=0d1117&title_color=E8C77E&text_color=D8C3A0"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinomoo&layout=compact&hide_border=true&bg_color=ffffff&title_color=9C4F5D&text_color=2A2016" width="47%" alt="Top languages"/></picture>
 
-### 🎙️ [LittleTone](https://github.com/Kinomoo/LittleTone) &nbsp;·&nbsp; [Live →](https://littletone.vercel.app/)
-> AI 社交溝通教練
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kinomoo&bg_color=00000000&color=E8C77E&line=E8C77E&point=E39FA8&area_color=9C4F5D&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=Kinomoo&bg_color=00000000&color=7A4A2B&line=7A4A2B&point=9C4F5D&area_color=D9C4A0&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity"/></picture>
 
-整合 LINE LIFF 與 OpenAI，以台灣在地化社交話術知識庫為基礎，透過 RAG 輕量化知識檢索提供即時情緒共情統計、對話建議與教練分析卡片，並支援圖片 Vision 分析。負責系統開發與 QA。
+</div>
 
-**競賽成果**：LINE FRESH 2025 校園競賽 **入圍前 10（前 4.4%）**
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"/><img src="assets/s04.svg" alt="04 — stack"/></picture>
 
-`Python` `Flask` `LINE LIFF` `OpenAI` `RAG` `Vision`
+<br/>
 
----
+**AI**
 
-### 🌐 [NTRP 社群整合平台](https://github.com/Kinomoo/ntrp-showcase) &nbsp;·&nbsp; 已下線
-> 獨立開發 · 自行部署
+<img src="https://img.shields.io/badge/OpenAI-17140F?style=for-the-badge&logo=openai&logoColor=E8C77E" /> <img src="https://img.shields.io/badge/RAG%20架構-17140F?style=for-the-badge&logoColor=E8C77E" /> <img src="https://img.shields.io/badge/Prompt%20Engineering-17140F?style=for-the-badge&logoColor=E8C77E" /> <img src="https://img.shields.io/badge/Cursor-17140F?style=for-the-badge&logo=cursor&logoColor=E8C77E" /> <img src="https://img.shields.io/badge/Claude%20Code-17140F?style=for-the-badge&logo=claude&logoColor=E8C77E" />
 
-Discord GTA RP 伺服器專用全端平台。獨立負責 UI 設計、全端開發與雲端環境部署。Discord OAuth 驗證、白名單管理、管理員後台。營運期間日均數百訪客，內容存取率 73%。
+<br/><br/>
 
-`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Nginx` `PM2` `Cloudflare`
+**全端開發**
 
----
+<img src="https://img.shields.io/badge/TypeScript-17140F?style=for-the-badge&logo=typescript&logoColor=3178C6" /> <img src="https://img.shields.io/badge/Next.js-17140F?style=for-the-badge&logo=nextdotjs&logoColor=E39FA8" /> <img src="https://img.shields.io/badge/React-17140F?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-17140F?style=for-the-badge&logo=nodedotjs&logoColor=D8A86C" /> <img src="https://img.shields.io/badge/Python-17140F?style=for-the-badge&logo=python&logoColor=E8C77E" /> <img src="https://img.shields.io/badge/Java-17140F?style=for-the-badge&logo=openjdk&logoColor=D8A86C" /> <img src="https://img.shields.io/badge/FreeMarker-17140F?style=for-the-badge&logo=apachefreemarker&logoColor=E39FA8" />
 
-## 🛠️ 核心技能
+<br/><br/>
 
-**AI 協作開發** &nbsp;·&nbsp; OpenAI · Gemini · RAG 架構 · Prompt Engineering · Cursor · Google Stitch  
-**全端開發** &nbsp;·&nbsp; TypeScript · Node.js · Next.js · React · Python · 大規模系統重構  
-**資料庫** &nbsp;·&nbsp; MySQL · PostgreSQL · Prisma · Supabase  
-**雲端部署** &nbsp;·&nbsp; GCP · Vultr · Nginx · PM2 · Cloudflare SSL  
-**產品思維** &nbsp;·&nbsp; MVP 產品定義 · 需求分析轉化 · 資料庫設計  
+**資料庫**
 
----
+<img src="https://img.shields.io/badge/MySQL-17140F?style=for-the-badge&logo=mysql&logoColor=E8C77E" /> <img src="https://img.shields.io/badge/PostgreSQL-17140F?style=for-the-badge&logo=postgresql&logoColor=E39FA8" /> <img src="https://img.shields.io/badge/Prisma-17140F?style=for-the-badge&logo=prisma&logoColor=D8A86C" />
 
-## 📊 GitHub 狀態
+<br/><br/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kinomoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Kinomoo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinomoo&layout=compact&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Kinomoo)
+**雲端部署**
 
----
+<img src="https://img.shields.io/badge/GCP-17140F?style=for-the-badge&logo=googlecloud&logoColor=E8C77E" /> <img src="https://img.shields.io/badge/Vultr-17140F?style=for-the-badge&logo=vultr&logoColor=E39FA8" /> <img src="https://img.shields.io/badge/Nginx-17140F?style=for-the-badge&logo=nginx&logoColor=D8A86C" /> <img src="https://img.shields.io/badge/Docker-17140F?style=for-the-badge&logo=docker&logoColor=E8C77E" /> <img src="https://img.shields.io/badge/Cloudflare-17140F?style=for-the-badge&logo=cloudflare&logoColor=E39FA8" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kinommoo-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/kinommoo)
+<br/><br/>
+
+<br/>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="Footer"/></picture>
