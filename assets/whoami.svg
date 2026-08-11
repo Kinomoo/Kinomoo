@@ -10,12 +10,12 @@
   </style>
 
   <g>
-    <text class="mono fade a1" fill="#2A2016" x="48" y="52" font-size="18">全端開發者，特別關注 AI 應用怎麼真正落地。</text><text class="mono fade a2" fill="#2A2016" x="48" y="88" font-size="18">從跨校學術合作系統、競賽作品到自己獨立部署上線的產品，</text><text class="mono fade a3" fill="#2A2016" x="48" y="124" font-size="18">習慣把專案做到能被真實使用者使用、能長期穩定運行。</text><text class="mono fade a4" fill="#2A2016" x="48" y="160" font-size="18">擅長在資源有限的情況下獨立判斷、主動解決問題。</text><text class="mono fade a5" fill="#2A2016" x="48" y="196" font-size="18">目前於企業實習中，持續累積後端與大型專案協作經驗。</text>
+    <text class="mono fade a1" fill="#1E2333" x="48" y="52" font-size="18">全端開發者，特別關注 AI 應用怎麼真正落地。</text><text class="mono fade a2" fill="#1E2333" x="48" y="88" font-size="18">從跨校學術合作系統、競賽作品到自己獨立部署上線的產品，</text><text class="mono fade a3" fill="#1E2333" x="48" y="124" font-size="18">每個專案，我都想做到能被真實使用者使用、長期穩定運行。</text><text class="mono fade a4" fill="#1E2333" x="48" y="160" font-size="18">擅長在資源有限的情況下獨立判斷、主動解決問題。</text><text class="mono fade a5" fill="#1E2333" x="48" y="196" font-size="18">目前於企業實習中，持續累積後端與大型專案協作經驗。</text>
   </g>
-  <line class="draw a5" x1="48" y1="240" x2="952" y2="240" stroke="#D9C4A0" stroke-width="1"/>
+  <line class="draw a5" x1="48" y1="240" x2="952" y2="240" stroke="#C7D2E0" stroke-width="1"/>
   <g class="fade a6">
-    <text class="mono" fill="#B99B6E" x="48" y="268" font-size="12" letter-spacing="1">role ›</text>
-    <text class="mono" fill="#B8860B" x="100" y="268" font-size="12" letter-spacing="1">Full-Stack Development / AI Application Delivery</text>
+    <text class="mono" fill="#8A99B3" x="48" y="268" font-size="12" letter-spacing="1">role ›</text>
+    <text class="mono" fill="#6D5BD0" x="100" y="268" font-size="12" letter-spacing="1">Full-Stack Development / AI Application Delivery</text>
   </g>
 
 </svg>

@@ -9,36 +9,28 @@
     @media (prefers-reduced-motion: reduce) { .draw,.fade { animation: none; } .draw{stroke-dashoffset:0} .fade{opacity:1} }
   </style>
 
-  <defs>
-    <clipPath id="avatarClip">
-      <circle cx="885" cy="150" r="78"/>
-    </clipPath>
-  </defs>
-  <line class="draw a1" x1="48" y1="58" x2="800" y2="58" stroke="#D9C4A0" stroke-width="1"/>
+  <line class="draw a1" x1="48" y1="58" x2="952" y2="58" stroke="#C7D2E0" stroke-width="1"/>
   <g class="fade a1">
-    <text class="mono" fill="#8A7458" x="48" y="44" font-size="11" letter-spacing="3.5">PORTFOLIO — INDEX Nº 001</text>
+    <text class="mono" fill="#5B6B85" x="48" y="44" font-size="11" letter-spacing="3.5">PORTFOLIO — INDEX Nº 001</text>
+    <text class="mono" fill="#5B6B85" x="952" y="44" font-size="11" letter-spacing="3.5" text-anchor="end">TAICHUNG, TW — 24.14° N</text>
   </g>
   <g class="fade a2">
-    <circle cx="885" cy="150" r="80" fill="none" stroke="#B8860B" stroke-width="2"/>
-    <image href="avatar.gif" x="805" y="70" width="160" height="160" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/>
-  </g>
-  <g class="fade a2">
-    <text fill="#2A2016" class="mono" x="46" y="176" font-size="72" letter-spacing="-1">KimMo</text>
+    <text fill="#1E2333" class="mono" x="46" y="176" font-size="72" letter-spacing="-1">KimMo</text>
   </g>
   <g class="fade a3">
-    <text fill="#8A7458" class="mono" x="48" y="212" font-size="18">Full-Stack Developer · AI Product Builder — Taichung, Taiwan</text>
+    <text fill="#5B6B85" class="mono" x="48" y="212" font-size="18">Full-Stack Developer · AI Product Builder — Taichung, Taiwan</text>
   </g>
   <g class="fade a4">
-    <text fill="#B99B6E" class="mono" x="48" y="272" font-size="12.5" letter-spacing="1">focus  ›</text>
-    <text fill="#9C4F5D" class="mono" x="128" y="272" font-size="12.5" letter-spacing="1">full-stack systems · AI-integrated products · RAG pipelines · cloud deployment</text>
+    <text fill="#8A99B3" class="mono" x="48" y="272" font-size="12.5" letter-spacing="1">focus  ›</text>
+    <text fill="#0D9488" class="mono" x="128" y="272" font-size="12.5" letter-spacing="1">full-stack systems · AI-integrated products · RAG pipelines · cloud deployment</text>
   </g>
   <g class="fade a5">
-    <text fill="#B99B6E" class="mono" x="48" y="298" font-size="12" letter-spacing="0.5">shipped: AI 面試訓練平台（跨校合作，線上服務中）· LINE FRESH 2025 Top 10（前 4.4%）</text>
+    <text fill="#8A99B3" class="mono" x="48" y="298" font-size="12" letter-spacing="0.5">shipped: AI 面試訓練平台（跨校合作，線上服務中）· LINE FRESH 2025 Top 10（前 4.4%）</text>
   </g>
-  <line class="draw a5" x1="48" y1="340" x2="952" y2="340" stroke="#D9C4A0" stroke-width="1"/>
+  <line class="draw a5" x1="48" y1="340" x2="952" y2="340" stroke="#C7D2E0" stroke-width="1"/>
   <g class="fade a6">
-    <text class="mono" fill="#B99B6E" x="48" y="368" font-size="11" letter-spacing="2">STACK — TS · PYTHON · NEXT.JS · GCP</text>
-    <text class="mono" fill="#B8860B" x="952" y="368" font-size="11" letter-spacing="2" text-anchor="end">STATUS — BUILDING</text>
+    <text class="mono" fill="#8A99B3" x="48" y="368" font-size="11" letter-spacing="2">STACK — TS · PYTHON · NEXT.JS · GCP</text>
+    <text class="mono" fill="#6D5BD0" x="952" y="368" font-size="11" letter-spacing="2" text-anchor="end">STATUS — BUILDING</text>
   </g>
 
 </svg>

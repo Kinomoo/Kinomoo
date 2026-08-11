@@ -9,10 +9,10 @@
     @media (prefers-reduced-motion: reduce) { .draw,.fade { animation: none; } .draw{stroke-dashoffset:0} .fade{opacity:1} }
   </style>
 
-  <line class="draw a1" x1="48" y1="42" x2="952" y2="42" stroke="#3A2E22" stroke-width="1"/>
+  <line class="draw a1" x1="48" y1="42" x2="952" y2="42" stroke="#2A3350" stroke-width="1"/>
   <g class="fade a2">
-    <text class="mono" fill="#E8C77E" x="48" y="30" font-size="13" letter-spacing="2">Nº 04</text>
-    <text class="mono" fill="#F3E4C8" x="112" y="30" font-size="13" letter-spacing="4">STACK</text>
+    <text class="mono" fill="#A78BFA" x="48" y="30" font-size="13" letter-spacing="2">Nº 04</text>
+    <text class="mono" fill="#E8ECF7" x="112" y="30" font-size="13" letter-spacing="4">STACK</text>
   </g>
 
 </svg>
