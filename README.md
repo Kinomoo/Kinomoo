@@ -10,18 +10,34 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="About KimMo"/></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"/><img src="assets/s02.svg" alt="02 — projects"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" alt="3 showcased repositories"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects-label.svg"/><img src="assets/projects-label.svg" alt="3 showcased repositories"/></picture>
 
-`01` [Repo →](https://github.com/Kinomoo/interview-system-showcase) · [Live →](https://ice-interview.com)
-`02` [Repo →](https://github.com/Kinomoo/LittleTone) · [Live →](https://littletone.vercel.app)
-`03` [Repo →](https://github.com/Kinomoo/ntrp-showcase)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/project-01.svg"/><img src="assets/project-01.svg" alt="AI 面試訓練系統"/></picture>
+<div align="right"><sub>
+
+[![Repo](https://img.shields.io/badge/Repo-A78BFA?style=flat-square&logoColor=131826)](https://github.com/Kinomoo/interview-system-showcase) [![Live](https://img.shields.io/badge/Live-A78BFA?style=flat-square&logoColor=131826)](https://ice-interview.com)
+
+</sub></div>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/project-02.svg"/><img src="assets/project-02.svg" alt="LittleTone"/></picture>
+<div align="right"><sub>
+
+[![Repo](https://img.shields.io/badge/Repo-5EEAD4?style=flat-square&logoColor=131826)](https://github.com/Kinomoo/LittleTone) [![Live](https://img.shields.io/badge/Live-5EEAD4?style=flat-square&logoColor=131826)](https://littletone.vercel.app)
+
+</sub></div>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/project-03.svg"/><img src="assets/project-03.svg" alt="NTRP 社群整合平台"/></picture>
+<div align="right"><sub>
+
+[![Repo](https://img.shields.io/badge/Repo-7DD3FC?style=flat-square&logoColor=131826)](https://github.com/Kinomoo/ntrp-showcase)
+
+</sub></div>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="03 — telemetry"/></picture>
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Kinomoo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=5EEAD4&text_color=E8ECF7"/><img src="https://github-readme-stats.vercel.app/api?username=Kinomoo&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0D9488&icon_color=2563EB&text_color=1E2333" width="47%" alt="GitHub statistics"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinomoo&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=E8ECF7"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinomoo&layout=compact&hide_border=true&bg_color=ffffff&title_color=0D9488&text_color=1E2333" width="47%" alt="Top languages"/></picture>
+<a href="https://github.com/Kinomoo"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinomoo&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=E8ECF7"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinomoo&layout=compact&hide_border=true&bg_color=ffffff&title_color=0D9488&text_color=1E2333" alt="Kinomoo's Top Langs" /></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kinomoo&bg_color=00000000&color=A78BFA&line=A78BFA&point=5EEAD4&area_color=0D9488&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=Kinomoo&bg_color=00000000&color=2563EB&line=2563EB&point=0D9488&area_color=C7D2E0&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity"/></picture>
 
