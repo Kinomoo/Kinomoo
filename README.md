@@ -37,8 +37,6 @@
 
 <div align="center">
 
-<a href="https://github.com/Kinomoo"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinomoo&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=E8ECF7"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinomoo&layout=compact&hide_border=true&bg_color=ffffff&title_color=0D9488&text_color=1E2333" alt="Kinomoo's Top Langs" /></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kinomoo&bg_color=00000000&color=A78BFA&line=A78BFA&point=5EEAD4&area_color=0D9488&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=Kinomoo&bg_color=00000000&color=2563EB&line=2563EB&point=0D9488&area_color=C7D2E0&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity"/></picture>
 
 </div>
